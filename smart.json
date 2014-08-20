@@ -1,0 +1,9 @@
+{
+	"name": "gcloud",
+	"description": "Node idiomatic client for Google Cloud services.",
+	"homepage": "https://github.com/usefulio/meteor-gcloud",
+	"version": "0.1.0",
+	"git": "https://github.com/usefulio/meteor-gcloud.git",
+	"packages": {
+	}
+}
