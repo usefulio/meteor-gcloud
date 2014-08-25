@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Npm.depends({
-	"gcloud": "https://github.com/usefulio/gcloud-node/tarball/d843c298f67456645a111f3daae0219afa159d1d"
+	"gcloud": "https://github.com/usefulio/gcloud-node/tarball/195878d64fb756e7e06d7be16f5ddb25f4149fe9"
 });
 
 Package.on_use(function (api) {
